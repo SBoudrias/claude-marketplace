@@ -1,0 +1,16 @@
+{
+  "name": "sboudrias-claude-plugins",
+  "metadata": {
+    "description": "Simon's collection of plugins for Claude AI"
+  },
+  "owner": {
+    "name": "Simon Boudrias",
+    "email": "hello@simonboudrias.com"
+  },
+  "plugins": [
+    {
+      "name": "startup-subagents",
+      "source": "./startup"
+    }
+  ]
+}
