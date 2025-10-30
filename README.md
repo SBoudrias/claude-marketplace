@@ -6,8 +6,6 @@ See [Claude documentation](https://docs.claude.com/en/docs/claude-code/plugin-ma
 
 ## Install
 
-Within `claude` code, run:
-
 ```sh
-/plugin marketplace add https://github.com/SBoudrias/claude-marketplace
+claude plugin marketplace add https://github.com/SBoudrias/claude-marketplace
 ```
